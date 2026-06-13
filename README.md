@@ -11,13 +11,13 @@ teknik pembersihan data (*data cleaning*), analisis statistik deskriptif, seni b
 menggunakan Regresi Linear. Setiap pertemuan dilengkapi dengan kode implementasi praktis menggunakan dataset populer seperti Iris, Titanic, Penguins, dan Flights.
 
 | Pertemuan | Topik / Materi Utama | Tautan Notebook |
-| **01** | **Pengenalan Data Science & Kerangka Kerja CRISP-DM**<br>• Definisi & 3 Pilar Utama Data Science<br>• 6 Fase Siklus Hidup Data (CRISP-DM) |
-| **02** | **Struktur Data Python, NumPy & Pandas**<br>• List, Tuple, Dictionary, Set<br>• Vektorisasi dengan NumPy Array<br>• Manipulasi DataFrame dengan Pandas | [Buka Notebook](./DataSciencePertemuan2.ipynb) |
-| **03** | **Data Cleaning: Missing Values, Outlier & Ekstraksi Data**<br>• Taksonomi kualitas data<br>• Strategi Dropping & Imputasi Statistik<br>• Deteksi Outlier (Metode IQR & Z-score) | [Buka Notebook](./DataSciencePertemuan3.ipynb) |
-| **04** | **Statistika Dasar & Analisis Data Eksploratif (EDA)**<br>• Ukuran Pemusatan (Mean, Median, Modus) & Penyebaran (Varians, Std Dev)<br>• Eksplorasi Data dengan `.describe()` dan Korelasi | [Buka Notebook](./DataSciencePertemuan4.ipynb) |
-| **05** | **Visualisasi Data & Pendekatan Storytelling**<br>• 5 Prinsip Visualisasi (Clarity, Accuracy, Efficiency, Aesthetics, Context)<br>• Pembuatan Chart (Bar, Histogram, Boxplot, Scatter, Heatmap) | [Buka Notebook](./DataSciencePertemuan5.ipynb) |
-| **06** | **Persiapan Data (Data Preparation / Preprocessing)**<br>• Encoding Data Kategorikal (Label Encoding & One-Hot Encoding)<br>• Feature Scaling (MinMax Normalization & Standard Scaling)<br>• Pemisahan Dataset (Train-Test Split) | [Buka Notebook](./DataSciencePertemuan6.ipynb) |
-| **07** | **Pengantar Machine Learning: Regresi Linear**<br>• Konsep Evaluasi Model (MSE, RMSE, MAE, R-Squared)<br>• Pelatihan Model `LinearRegression` Scikit-Learn<br>• Analisis Residual Plot | [Buka Notebook](./DataSciencePertemuan7.ipynb) |
+| **01** | **Pengenalan Data Science & Kerangka Kerja CRISP-DM**<br>• Definisi & 3 Pilar Utama Data Science<br>• 6 Fase Siklus Hidup Data (CRISP-DM) |<br>
+| **02** | **Struktur Data Python, NumPy & Pandas**<br>• List, Tuple, Dictionary, Set<br>• Vektorisasi dengan NumPy Array<br>• Manipulasi DataFrame dengan Pandas | [Buka Notebook](./DataSciencePertemuan2.ipynb) |<br>
+| **03** | **Data Cleaning: Missing Values, Outlier & Ekstraksi Data**<br>• Taksonomi kualitas data<br>• Strategi Dropping & Imputasi Statistik<br>• Deteksi Outlier (Metode IQR & Z-score) | [Buka Notebook](./DataSciencePertemuan3.ipynb) |<br>
+| **04** | **Statistika Dasar & Analisis Data Eksploratif (EDA)**<br>• Ukuran Pemusatan (Mean, Median, Modus) & Penyebaran (Varians, Std Dev)<br>• Eksplorasi Data dengan `.describe()` dan Korelasi | [Buka Notebook](./DataSciencePertemuan4.ipynb) |<br>
+| **05** | **Visualisasi Data & Pendekatan Storytelling**<br>• 5 Prinsip Visualisasi (Clarity, Accuracy, Efficiency, Aesthetics, Context)<br>• Pembuatan Chart (Bar, Histogram, Boxplot, Scatter, Heatmap) | [Buka Notebook](./DataSciencePertemuan5.ipynb) |<br>
+| **06** | **Persiapan Data (Data Preparation / Preprocessing)**<br>• Encoding Data Kategorikal (Label Encoding & One-Hot Encoding)<br>• Feature Scaling (MinMax Normalization & Standard Scaling)<br>• Pemisahan Dataset (Train-Test Split) | [Buka Notebook](./DataSciencePertemuan6.ipynb) |<br>
+| **07** | **Pengantar Machine Learning: Regresi Linear**<br>• Konsep Evaluasi Model (MSE, RMSE, MAE, R-Squared)<br>• Pelatihan Model `LinearRegression` Scikit-Learn<br>• Analisis Residual Plot | [Buka Notebook](./DataSciencePertemuan7.ipynb) |<br>
 
 Proyek-proyek di dalam repositori ini dibangun menggunakan bahasa pemrograman **Python 3** dengan dukungan ekosistem library data science berikut:
 * **Pandas:** Untuk manipulasi struktur data tabular (DataFrame) dan pembacaan file dataset.
