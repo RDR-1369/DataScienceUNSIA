@@ -11,8 +11,8 @@ teknik pembersihan data (*data cleaning*), analisis statistik deskriptif, seni b
 menggunakan Regresi Linear. Setiap pertemuan dilengkapi dengan kode implementasi praktis menggunakan dataset populer seperti Iris, Titanic, Penguins, dan Flights.
 
 | Pertemuan | Topik / Materi Utama | Tautan Notebook |
-| **01** | **Pengenalan Data Science & Kerangka Kerja CRISP-DM**<br>• Definisi & 3 Pilar Utama Data Science<br>• 6 Fase Siklus Hidup Data (CRISP-DM) | [Buka Notebook](./Pertemuan_01_Pengenalan_Data_Science.ipynb) |
-| **02** | **Struktur Data Python, NumPy & Pandas**<br>• List, Tuple, Dictionary, Set<br>• Vektorisasi dengan NumPy Array<br>• Manipulasi DataFrame dengan Pandas | [Buka Notebook](./Pertemuan_02_Struktur_Data_NumPy_Pandas.ipynb) |
+| **01** | **Pengenalan Data Science & Kerangka Kerja CRISP-DM**<br>• Definisi & 3 Pilar Utama Data Science<br>• 6 Fase Siklus Hidup Data (CRISP-DM) |
+| **02** | **Struktur Data Python, NumPy & Pandas**<br>• List, Tuple, Dictionary, Set<br>• Vektorisasi dengan NumPy Array<br>• Manipulasi DataFrame dengan Pandas | [Buka Notebook](./DataSciencePertemuan2.ipynb) |
 | **03** | **Data Cleaning: Missing Values, Outlier & Ekstraksi Data**<br>• Taksonomi kualitas data<br>• Strategi Dropping & Imputasi Statistik<br>• Deteksi Outlier (Metode IQR & Z-score) | [Buka Notebook](./Pertemuan_03_Data_Cleaning.ipynb) |
 | **04** | **Statistika Dasar & Analisis Data Eksploratif (EDA)**<br>• Ukuran Pemusatan (Mean, Median, Modus) & Penyebaran (Varians, Std Dev)<br>• Eksplorasi Data dengan `.describe()` dan Korelasi | [Buka Notebook](./Pertemuan_04_Statistika_Dasar_EDA.ipynb) |
 | **05** | **Visualisasi Data & Pendekatan Storytelling**<br>• 5 Prinsip Visualisasi (Clarity, Accuracy, Efficiency, Aesthetics, Context)<br>• Pembuatan Chart (Bar, Histogram, Boxplot, Scatter, Heatmap) | [Buka Notebook](./Pertemuan_05_Visualisasi_Data.ipynb) |
