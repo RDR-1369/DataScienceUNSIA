@@ -1,5 +1,5 @@
 **Nama Lengkap:** Richi Ilham Hadiputra
-**NIM:** 2404
+**NIM:** 240401020163
 **Kelas:** IF401
 **Program Studi:** S1 PJJ Informatika
 
