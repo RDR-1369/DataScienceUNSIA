@@ -1,6 +1,6 @@
 **Nama Lengkap:** Richi Ilham Hadiputra
 **NIM:** 240401020163
-**Kelas:** IF401
+**Kelas:** IF403
 **Program Studi:** S1 PJJ Informatika
 
 Halo! Saya Richi Ilham H, seorang mahasiswa sarjana Informatika yang sedang mendalami bidang data dan kecerdasan buatan. Tujuan saya mempelajari Data Science adalah untuk memahami bagaimana mengolah data mentah 
